@@ -10,3 +10,4 @@ def fizzbuzz(num)
   else
     nil
 end
+fizzbuzz(3)
