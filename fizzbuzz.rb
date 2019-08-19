@@ -9,5 +9,4 @@ def fizzbuzz(num)
     return "buzz"
   else
     nil
-end
 fizzbuzz(5)
